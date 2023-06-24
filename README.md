@@ -1,6 +1,6 @@
 # bmicalculator
 
-A new Flutter project. The 
+A new Flutter project. 
 
 ## Getting Started
 
